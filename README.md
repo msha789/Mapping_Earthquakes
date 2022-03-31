@@ -8,6 +8,6 @@ See map pictured below for the end result of this JavaScript, HTML, and CSS appl
 
 ![Pic](https://github.com/msha789/Mapping_Earthquakes/blob/383ba5179006bae4e51873f5954f71b4978b5152/Screen%20Shot%202022-03-30%20at%2010.12.10%20PM.png)
 
-![Pic]()
+![Pic](https://github.com/msha789/Mapping_Earthquakes/blob/9a2ffaa945d431b23b4624dc8cbd00d8fff333a6/Screen%20Shot%202022-03-30%20at%2010.12.21%20PM.png)
 
 ![Pic]()
