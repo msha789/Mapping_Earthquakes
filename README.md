@@ -10,4 +10,4 @@ See map pictured below for the end result of this JavaScript, HTML, and CSS appl
 
 ![Pic](https://github.com/msha789/Mapping_Earthquakes/blob/9a2ffaa945d431b23b4624dc8cbd00d8fff333a6/Screen%20Shot%202022-03-30%20at%2010.12.21%20PM.png)
 
-![Pic]()
+![Pic](https://github.com/msha789/Mapping_Earthquakes/blob/deb9478094e0d66f5694cc593f969f3ed863ecfe/Screen%20Shot%202022-03-30%20at%2010.12.31%20PM.png)
